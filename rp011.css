@@ -31,15 +31,6 @@ margin:0px 0px 0px 0px;
 word-break:break-all; 
 }
 
-#lithium h2:before { content:"“"; 
-color:#000; 
-font-family:times, serif;
-font-weight:900; }
-#lithium h2:after { content:"”"; 
-color:#000; 
-font-family:times, serif; 
-font-weight:900; }
-
 #lithium h2 { color:#000; 
 font-family: times, serif; 
 font-size:12px;
